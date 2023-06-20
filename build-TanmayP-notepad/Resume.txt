@@ -1,0 +1,37 @@
+Resume
+======
+Full Name: Tanmay Pant
+Email: tanmay.pant@mitaoe.ac.in
+Phone: 8975805720
+
+Objective:
+Being very curious about computers and data and it's impact, the idea of "Akshar Anveshini" seemed interesting and I am looking forward to have an internship at your prestigious institute.
+
+Education:
+- Bachelor of technology Computer Science
+  MIT academy of engineering
+  Graduating: DEC 2025
+- Kendriya Vidyalaya Ambajhari, Nagpur
+  2008 - 2020
+
+Skills:
+- Programming Languages: C++, JavaScript, Python
+- Web Development: HTML, CSS, JavaScript
+- Database: SQL, MySQL, MongoDb
+- Data structures
+- Competitive programming on geeks-for-geeks and codechef
+- Problem Solving and Analytical Thinking
+- Strong Communication Skills
+
+Projects:
+-created a Python program for applied cryptography application
+   : which gets user inputs and encrypts it through various hashes and functions and displays as graph co-ordinates.
+-created a Python Tkinter GUI for a hospital reception management application 
+   : with mysql and mysql python connectivity which could store Patient records,shifts management and bill generation with authentication.
+
+Hobbies: 
+-Cycling
+-Painting
+-native language learning
+-minimal aesthetic graphic desiging
+-cooking
